@@ -1,5 +1,5 @@
 {
-    "name"          : "tilelive-mapnik",
+    "name"          : "tilelive-mapnik-cartodb",
     "version"       : "0.2.4",
     "main"          : "./lib/mapnik.js",
     "description"   : "Mapnik backend for tilelive",
