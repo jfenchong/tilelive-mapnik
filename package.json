@@ -23,7 +23,7 @@
         "underscore"  : "1.1.x",
         "generic-pool": "1.0.x",
         "mapnik"      : "0.5.11",
-        "eio"         : "0.0.1",
+        "eio"         : "0.1.0",
         "sphericalmercator": "1.0.0"
     },
     "devDependencies": {
