@@ -1,6 +1,6 @@
 {
-    "name"          : "tilelive-mapnik-cartodb",
-    "version"       : "0.2.3",
+    "name"          : "tilelive-mapnik",
+    "version"       : "0.2.4",
     "main"          : "./lib/mapnik.js",
     "description"   : "Mapnik backend for tilelive",
     "url"           : "http://github.com/mapbox/tilelive-mapnik",
@@ -10,7 +10,7 @@
     }],
     "repositories": [{
         "type": "git",
-        "url": "http://github.com/mapbox/tilelive-mapnik.git"
+        "url": "http://github.com/jfenchong/tilelive-mapnik.git"
     }],
     "contributors": [
         "Tom MacWright <tmcw>",
