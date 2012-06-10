@@ -30,7 +30,7 @@
         "expresso": "0.7.x"
     },
     "engines": {
-        "node": "0.4.x"
+        "node": "> 0.4.x"
     },
     "scripts": {
         "pretest": "which expresso || npm install --dev",
